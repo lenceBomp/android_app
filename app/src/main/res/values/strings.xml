@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LOL</string>
+    <string name="Saisir">Veuillez saisir une valeur entre 1 et 100 :</string>
+    <string name="valider">Valider</string>
+</resources>
